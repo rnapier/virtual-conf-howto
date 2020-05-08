@@ -89,3 +89,11 @@ Use a headset or a dedicated, external microphone. Do not use your computer's bu
 Things go wrong. That's the nature of conferences. But in a virtual conference, you don't have all the helpful staff right there to help you get out of it. So you need to plan in advance.
 
 What are you going to do if your home network goes out ten minutes before your talk? You want a way to contact the conference staff that is out-of-band. If it's domestic, share phone numbers. If it's international, make sure you have some backup messaging system (Slack, etc.) where you can reach each other that works from your phone over cellular. The goal isn't to make sure that the talk can go forward; it's to allow the staff to decide when it's worth waiting a few minutes vs. canceling the talk and moving to something else.
+
+## Audience feedback
+
+It's tough talking to a empty room. There's no feedback over Zoom to let you know how people are responding, or even if they can hear you. I haven't found a way to deal with that yet, but I have seen a nice way to get back one piece: applause. I've seen people posting 👏 in chat groups at the end of talks, and at first I thought it seemed silly and just cluttering the channel, but I've gotten to really like it. I think it makes our virtual conferences a little more human.
+
+## Final thoughts
+
+Best wishes for your talk, and I hope you all stay healthy and safe and that we can meet up again at an in-person conference again soon. 
