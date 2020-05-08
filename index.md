@@ -1,7 +1,6 @@
-## Giving a Virtual Talk
+# Cocoaphony's guide to giving a Virtual Talk
 
-With all these virtual conferences going on, a lot of folks are giving their first virtual talks. This captures a few
-lessons I've learned so far in how to make these work the best they can.
+With all these virtual conferences going on, a lot of folks are giving their first virtual talks. I've been giving talks at conferences for years, but virtual adds some interesting challenges. This page captures a few quickly jotted-down lessons I've learned so far in how to make these work the best they can. For more about me, see the [Cocoaphony blog](https://robnapier.net) or [@cocoaphony](http://twitter.com/cocoaphony/status/1258791650501033985).
 
 ## My setup
 
@@ -67,7 +66,11 @@ Option-click it so it's dimmed. That puts you in do-not disturb. It's also avail
 
 That doesn't fix everything, but it's a start. 
 
-When I speak at conferences, I generally turn off wi-fi entirely, but that's not possible in a virtual conference. But do turn off everything you can. Quit all programs other than Keynote (and Xcode if you need it). You may need to run some number of programs for the conference, including possibly a web browser, but if you can quit it, quit it. 
+When I speak at conferences, I generally turn off wi-fi entirely, but that's not possible in a virtual conference. But do turn off everything you can. Quit all programs other than Keynote (and Xcode if you need it). You may need to run some number of programs for the conference, including possibly a web browser, but if you can quit it, quit it.
+
+Also, remember to silence your phone and your watch. (I always forget about my watch, and it chirps at me at weird times....)
+
+Don't forget to warn your two-legged housemates, and plan for your four-legged ones. Delightful as all the kids and cats bursting into a Zoom call can be, it's distracting. If your family is home with you, let them know exactly when you're going to be speaking. It's not just a kindness for the audience; it's also to let your family know when you're *not* speaking and when it's fine to go about their lives. (I've forgotten this before, and my family spent hours being unnecessarily cautious about noise.)
 
 ## Setting up Zoom
 
@@ -80,3 +83,9 @@ If you have multiple headsets laying around, I recommend testing the audio with 
 Switching from my preferred wireless headset to a USB wired headset dramatically improved audio quality. My wireless headset is more comfortable, and the audio is fine, but my USB headset is just much better. I recommend testing every microphone you can put your hands on with Zoom's "Test Mic" feature. Zoom applies various audio processing, and you want to know what's going to sound best with Zoom. (Zoom has an option on the Advanced pane to allow turning off all audio processing, and if you have a more advanced setup, you might want to test with that.)
 
 Use a headset or a dedicated, external microphone. Do not use your computer's built-in mic to give a presentation. Zoom has various filters to try to make it not horrible, but it's going to sound horrible. Even the most basic headset is going to be much better.
+
+## Communication
+
+Things go wrong. That's the nature of conferences. But in a virtual conference, you don't have all the helpful staff right there to help you get out of it. So you need to plan in advance.
+
+What are you going to do if your home network goes out ten minutes before your talk? You want a way to contact the conference staff that is out-of-band. If it's domestic, share phone numbers. If it's international, make sure you have some backup messaging system (Slack, etc.) where you can reach each other that works from your phone over cellular. The goal isn't to make sure that the talk can go forward; it's to allow the staff to decide when it's worth waiting a few minutes vs. canceling the talk and moving to something else.
