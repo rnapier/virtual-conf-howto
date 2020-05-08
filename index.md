@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Giving a Virtual Talk
 
-You can use the [editor on GitHub](https://github.com/rnapier/virtual-conf-howto/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+With all these virtual conferences going on, a lot of folks are giving their first virtual talks. This captures a few
+lessons I've learned so far in how to make these work the best they can.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## My setup
 
-### Markdown
+My setup may not be the same as your, so not everything here may work for you. Mostly I'm going to document how I do it,
+and you can take from it what works.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Quick summary: 
 
-```markdown
-Syntax highlighted code block
+I have a dedicated office with a stand-up desk and a large monitor, along with my MacBookPro which I use as a second monitor.
+Both are on arms to hold them up to eye level. I use Keynote for my talks, and will focus on how to set that up. I mostly
+work with Zoom, so I'll discuss that too.
 
-# Header 1
-## Header 2
-### Header 3
+## Setting up your desktop
 
-- Bulleted
-- List
+I really like having two screens so that I can share one, full screen. You should share the smallest of your screens (probably
+the laptop). However large it is will be large enough for sharing, and smaller screens use less bandwidth. Sharing a full
+screen makes it easy to know what you're sharing and what you're not.
 
-1. Numbered
-2. List
+Clear everything off your second screen. It should just have a background and the menu bar. If you're a packrat and keep
+tons of things all over your desktop, make a folder and stick everything in that folder for while you're presenting. That
+way the desktop is not distracting when you close Keynote or switch to Xcode, etc.
 
-**Bold** and _Italic_ and `Code` text
+## Setting up Keynote
 
-[Link](url) and ![Image](src)
-```
+Keynote works well in a 2-monitor configuration. You can present on the small screen (that you're sharing) and view your notes
+on the large screen. Cmd-Opt-P will start presenting. If the windows are on the wrong screen, press X to switch them.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Your camera should be on the screen with your notes. If you use speaker notes, I suggest reorganizing the presenter window
+to puth the notes at the top. Here's my layout.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rnapier/virtual-conf-howto/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
