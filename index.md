@@ -38,6 +38,8 @@ You can edit your layout by clicking the edit button:
 
 ![Presenter Layout Editor Button](https://github.com/rnapier/virtual-conf-howto/raw/master/Presenter%20Layout%20Editor.png)
 
+It'll appear in the upper-right when you mouse over the presenter screen.
+
 Some key points about this layout:
 
 * I use presenter notes extensively. Note that they're placed at the top. This allows me to look at the camera while still seeing the notes.
@@ -45,3 +47,36 @@ Some key points about this layout:
 * I've increased the font size, and made the window large enough to hold my longest text. In some rare cases where I have a very large amount of text, I sometimes duplicate a slide with no transition, just so the rest of the text is easily read without looking down the page.
 * If you generally speak without notes, you probably want to put the current slide at the top-center for the same reasons.
 
+## Checking video
+
+To see how your setup is working, I highly recommend Photo Booth (built-in, in /Applications). It has a simple video recorder, and is a very easy way to see what you're going to look like on video. Start it, start your presentation, and give the first few seconds of your talk.
+
+Check what's behind you in the frame. Is there a lamp that looks like it's growing out of your head? Are your company's secret plans on the whiteboard behind you? Is your background filled with a clutter? Is there a lot of glare that makes you squint. This is the time to fix all that.
+
+You want some light shining on your face if possible. People came to see you, not dramatic shadows. And low-light makes the camera have to turn up the gain, which can make things grainy. You may want to put a lamp behind your screen if possible, or rearrange a bit so that you face a window. Remember what time of day your talk will be. Natural lighting might change dramatically.
+
+## Turning off Distractions
+
+First, this button in the upper-right corner is your friend.
+
+![Notifications Button](https://github.com/rnapier/virtual-conf-howto/raw/master/Notifications%20Button.png)
+
+Option-click it so it's dimmed. That puts you in do-not disturb. It's also available as a toggle by left-clicking the button and going to the Notifications pane.
+
+![Do Not Distrub setting](https://github.com/rnapier/virtual-conf-howto/raw/master/Do%20Not%20Disturb.png)
+
+That doesn't fix everything, but it's a start. 
+
+When I speak at conferences, I generally turn off wi-fi entirely, but that's not possible in a virtual conference. But do turn off everything you can. Quit all programs other than Keynote (and Xcode if you need it). You may need to run some number of programs for the conference, including possibly a web browser, but if you can quit it, quit it. 
+
+## Setting up Zoom
+
+First, if the conference is using Zoom, make sure you've set it up and tested it before-hand. [While I don't like the choices they've made about their desktop app](https://www.tomsguide.com/news/zoom-security-privacy-woes), if you plan to use the web app instead to present, make sure you've tested with it first.
+
+If you have multiple headsets laying around, I recommend testing the audio with everything you have. There's a "Test Mic" option in the settings.
+
+![Zoom Settings](https://github.com/rnapier/virtual-conf-howto/raw/master/Zoom%20Settings.png)
+
+Switching from my preferred wireless headset to a USB wired headset dramatically improved audio quality. My wireless headset is more comfortable, and the audio is fine, but my USB headset is just much better. I recommend testing every microphone you can put your hands on with Zoom's "Test Mic" feature. Zoom applies various audio processing, and you want to know what's going to sound best with Zoom. (Zoom has an option on the Advanced pane to allow turning off all audio processing, and if you have a more advanced setup, you might want to test with that.)
+
+Use a headset or a dedicated, external microphone. Do not use your computer's built-in mic to give a presentation. Zoom has various filters to try to make it not horrible, but it's going to sound horrible. Even the most basic headset is going to be much better.
