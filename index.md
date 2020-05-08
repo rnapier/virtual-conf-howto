@@ -32,4 +32,6 @@ on the large screen. Cmd-Opt-P will start presenting. If the windows are on the 
 Your camera should be on the screen with your notes. If you use speaker notes, I suggest reorganizing the presenter window
 to puth the notes at the top. Here's my layout.
 
+![Presenter screen layout example](https://github.com/rnapier/virtual-conf-howto/raw/master/Presenter%20Screen%20Layout.png)
 
+You can edit your layout by clicking the edit button: ![Presenter Layout Editor Button](https://github.com/rnapier/virtual-conf-howto/raw/master/Presenter%20Layout%20Editor.png)
