@@ -34,4 +34,14 @@ to puth the notes at the top. Here's my layout.
 
 ![Presenter screen layout example](https://github.com/rnapier/virtual-conf-howto/raw/master/Presenter%20Screen%20Layout.png)
 
-You can edit your layout by clicking the edit button: ![Presenter Layout Editor Button](https://github.com/rnapier/virtual-conf-howto/raw/master/Presenter%20Layout%20Editor.png)
+You can edit your layout by clicking the edit button:
+
+![Presenter Layout Editor Button](https://github.com/rnapier/virtual-conf-howto/raw/master/Presenter%20Layout%20Editor.png)
+
+Some key points about this layout:
+
+* I use presenter notes extensively. Note that they're placed at the top. This allows me to look at the camera while still seeing the notes.
+* I've limited the width of the notes so I don't have to turn my head while I read them. The notes are also slightly off-center to the right. Since there is generally more text on the left of a page than the right, and once I start a sentence, I usually remember how to finish it without reading, this keeps my eyes more centered.
+* I've increased the font size, and made the window large enough to hold my longest text. In some rare cases where I have a very large amount of text, I sometimes duplicate a slide with no transition, just so the rest of the text is easily read without looking down the page.
+* If you generally speak without notes, you probably want to put the current slide at the top-center for the same reasons.
+
