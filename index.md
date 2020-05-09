@@ -4,7 +4,7 @@ With all these virtual conferences going on, a lot of folks are giving their fir
 
 ## My setup
 
-My setup may not be the same as your, so not everything here may work for you. Mostly I'm going to document how I do it,
+My setup may not be the same as yours, so not everything here may work for you. Mostly I'm going to document how I do it,
 and you can take from it what works.
 
 Quick summary: 
@@ -29,7 +29,7 @@ Keynote works well in a 2-monitor configuration. You can present on the small sc
 on the large screen. Cmd-Opt-P will start presenting. If the windows are on the wrong screen, press X to switch them.
 
 Your camera should be on the screen with your notes. If you use speaker notes, I suggest reorganizing the presenter window
-to puth the notes at the top. Here's my layout.
+to put the notes at the top. Here's my layout.
 
 ![Presenter screen layout example](https://github.com/rnapier/virtual-conf-howto/raw/master/Presenter%20Screen%20Layout.png)
 
@@ -50,7 +50,7 @@ Some key points about this layout:
 
 To see how your setup is working, I highly recommend Photo Booth (built-in, in /Applications). It has a simple video recorder, and is a very easy way to see what you're going to look like on video. Start it, start your presentation, and give the first few seconds of your talk.
 
-Check what's behind you in the frame. Is there a lamp that looks like it's growing out of your head? Are your company's secret plans on the whiteboard behind you? Is your background filled with a clutter? Is there a lot of glare that makes you squint. This is the time to fix all that.
+Check what's behind you in the frame. Is there a lamp that looks like it's growing out of your head? Are your company's secret plans on the whiteboard behind you? Is your background filled with a clutter? Is there a lot of glare that makes you squint? This is the time to fix all that.
 
 You want some light shining on your face if possible. People came to see you, not dramatic shadows. And low-light makes the camera have to turn up the gain, which can make things grainy. You may want to put a lamp behind your screen if possible, or rearrange a bit so that you face a window. Remember what time of day your talk will be. Natural lighting might change dramatically.
 
@@ -66,7 +66,7 @@ Option-click it so it's dimmed. That puts you in do-not disturb. It's also avail
 
 That doesn't fix everything, but it's a start. 
 
-When I speak at conferences, I generally turn off wi-fi entirely, but that's not possible in a virtual conference. But do turn off everything you can. Quit all programs other than Keynote (and Xcode if you need it). You may need to run some number of programs for the conference, including possibly a web browser, but if you can quit it, quit it.
+When I speak at conferences, I generally turn off wi-fi entirely, but that's not possible in a virtual conference. But do turn off everything you can. Quit all programs other than Keynote (and Xcode if you need it). You may need to run other programs for the conference, including possibly a web browser, but if you can quit it, quit it.
 
 Also, remember to silence your phone and your watch. (I always forget about my watch, and it chirps at me at weird times....)
 
@@ -74,13 +74,13 @@ Don't forget to warn your two-legged housemates, and plan for your four-legged o
 
 ## Setting up Zoom
 
-First, if the conference is using Zoom, make sure you've set it up and tested it before-hand. [While I don't like the choices they've made about their desktop app](https://www.tomsguide.com/news/zoom-security-privacy-woes), if you plan to use the web app instead to present, make sure you've tested with it first.
+First, if the conference is using Zoom, make sure you've set it up and tested it before-hand. [While I don't like the choices they've made about their desktop app](https://www.tomsguide.com/news/zoom-security-privacy-woes), if you plan to use the web app instead to present, make sure you've tested with it first. I haven't tried this for a presentation, and I'm somewhat dubious about its quality since their focus is the desktop app.
 
 If you have multiple headsets laying around, I recommend testing the audio with everything you have. There's a "Test Mic" option in the settings.
 
 ![Zoom Settings](https://github.com/rnapier/virtual-conf-howto/raw/master/Zoom%20Settings.png)
 
-Switching from my preferred wireless headset to a USB wired headset dramatically improved audio quality. My wireless headset is more comfortable, and the audio is fine, but my USB headset is just much better. I recommend testing every microphone you can put your hands on with Zoom's "Test Mic" feature. Zoom applies various audio processing, and you want to know what's going to sound best with Zoom. (Zoom has an option on the Advanced pane to allow turning off all audio processing, and if you have a more advanced setup, you might want to test with that.)
+Switching from my preferred wireless headset to a USB wired headset dramatically improved audio quality. My wireless headset is more comfortable, and the audio is fine, but my USB headset is just much better. I recommend testing every microphone you can put your hands on with Zoom's "Test Mic" feature. Zoom applies various audio processing, and you want to know what's going to sound best with Zoom. (Zoom has an option on the Advanced pane to allow turning off all audio processing, and if you have a more professional audio setup, you might want to test with that.)
 
 Use a headset or a dedicated, external microphone. Do not use your computer's built-in mic to give a presentation. Zoom has various filters to try to make it not horrible, but it's going to sound horrible. Even the most basic headset is going to be much better.
 
